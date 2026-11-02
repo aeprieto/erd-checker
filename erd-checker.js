@@ -2,9 +2,8 @@
  * Bloque que se incrusta en la pagina de la pregunta de Moodle.
  */
 (function () {
-    // Comprobador principal. Cuando i3lab de produccion tenga la version actual,
-    // cambiar a 'https://i3lab.unex.es/sql-snippets/erd-checker.html'
-    const PRINCIPAL = 'https://i3lab.unex.es/sql-snippets-beta/erd-checker.html';
+    // Comprobador principal
+    const PRINCIPAL = 'https://i3lab.unex.es/sql-snippets/erd-checker.html';
     const ALTERNATIVO = new URL('erd-checker.html', document.currentScript.src).href;
     const ORIGENES = [new URL(PRINCIPAL).origin, new URL(ALTERNATIVO).origin];
     const ESPERA_MS = 3000;
