@@ -4,11 +4,13 @@
 (function () {
     // Comprobador principal
     const PRINCIPAL = 'https://i3lab.unex.es/sql-snippets/erd-checker.html';
-    const ALTERNATIVO = new URL('erd-checker.html', document.currentScript.src).href;
+    // Fija: el script se carga desde jsDelivr, que no sirve las paginas HTML como tales
+    const ALTERNATIVO = 'https://aeprieto.github.io/erd-checker/erd-checker.html';
     const ORIGENES = [new URL(PRINCIPAL).origin, new URL(ALTERNATIVO).origin];
     const ESPERA_MS = 3000;
     const K = 'PcPLJeUDB0ivbtSN';
 
+    console.log('erd-checker.js cargado');
     const iframe = document.getElementById('checker');
 
     window.addEventListener('message', function (event) {
