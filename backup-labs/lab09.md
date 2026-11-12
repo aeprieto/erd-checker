@@ -208,7 +208,7 @@ Con esta información ya podemos modelar las dos primeras entidades mencionadas,
 
 
 
-> **🔎 Comprueba tu solución del ejercicio 03** en el [comprobador de respaldo](https://aeprieto.github.io/erd-checker/erd-checker.html?c=Pa9hQohVWUGS7c6Gc5RTAtj-Swgkh-NV7w8bKiPx63VaYEOnUfsv7XCJxQobqpbUTu00RMNvbiGFk-Q2ct0Ww83M29TMld5t4eRgCrHpmv5ezTSX4OvhKGS9oGfwX3-DIApUUyAtfxFYjZBB_KGRv2-PVmMgNy98KK5ME7UbiN1f"=){:target="_blank"}. Se abre en una pestaña nueva.
+> **🔎 Comprueba tu solución del ejercicio 03** en el [comprobador de respaldo](https://aeprieto.github.io/erd-checker/erd-checker.html?c=Pa9hQohVWUGS7c6Gc5RTAtj-Swgkh-NV7w8bKiPx63VaYEOnUfsv7XCJxQobqpbUTu00RMNvbiGFk-Q2ct0Ww83M29TMld5t4eRgCrHpmv5ezTSX4OvhKGS9oGfwX3-DIApUUyAtfxFYjZBB_KGRv2-PVmMgNy98KK5ME7UbiN1f){:target="_blank"}. Se abre en una pestaña nueva.
 
 ---
 
